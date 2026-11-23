@@ -1,0 +1,7 @@
+{
+  "condition": "long_scale",
+  "seed": 3008,
+  "outage_rate": 0.0,
+  "ahead_rmse": 3.959136525482262,
+  "solve_ms_med": 31.438673031516373
+}

@@ -1,0 +1,26 @@
+{
+  "signature": "725b17b003e2d2c7f9600a8bba8bbe598fcbcd8bb24beb63aba7be4645b53c85",
+  "phase": "graph_calibrate",
+  "name": "graph_b32_h8",
+  "seed": 3080,
+  "rate_bps": 3000000.0,
+  "temperature": 1.0,
+  "sigma_v": 8.0,
+  "jammer_xy": [
+    1223.3395194915938,
+    933.5058151240308
+  ],
+  "wall_s": 12.401370525360107,
+  "metrics": {
+    "outage_rate": 0.015,
+    "infeasible_rate": 0.0,
+    "grid_reference_rate": 0.0,
+    "excess_outage": 0.015,
+    "longest_outage_s": 6.0,
+    "rate_p05": 3374197.0006857966,
+    "ahead_rmse": 2.8131543693397996,
+    "final_loc_err": 1319.3223064732158,
+    "energy_kj": 62.2843935878485,
+    "solve_ms_med": 26.42596150690224
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "condition": "prior_std",
+  "seed": 3009,
+  "outage_rate": 0.0425,
+  "ahead_rmse": 4.074175785293329,
+  "solve_ms_med": 31.93932061549276
+}

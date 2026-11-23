@@ -1,0 +1,85 @@
+{
+  "signature": "51ad20ff176c1da3e078d3326e2d83518e8dd952d853771e0e2f9b4f3219e814",
+  "rate_bps": 3000000.0,
+  "development_seeds": [
+    3000,
+    3099
+  ],
+  "holdout_seeds": [
+    4000,
+    4199
+  ],
+  "grid": [
+    [
+      0.05,
+      4.0
+    ],
+    [
+      0.05,
+      8.0
+    ],
+    [
+      0.1,
+      4.0
+    ],
+    [
+      0.1,
+      8.0
+    ],
+    [
+      0.3,
+      4.0
+    ],
+    [
+      0.3,
+      8.0
+    ]
+  ],
+  "extra_grid": [
+    [
+      0.05,
+      2.0
+    ],
+    [
+      0.1,
+      2.0
+    ]
+  ],
+  "graph_grid": [
+    [
+      16,
+      6
+    ],
+    [
+      32,
+      8
+    ]
+  ],
+  "confirm_methods": [
+    "gp_tuned",
+    "geometry",
+    "known_tuned",
+    "graph_gp",
+    "graph_known",
+    "oracle_lattice_exact",
+    "gp_nominal",
+    "corridor_tuned",
+    "parametric_tuned",
+    "reactive",
+    "twophase_tuned"
+  ],
+  "stress_methods": [
+    "gp_tuned",
+    "geometry",
+    "graph_gp",
+    "known_tuned"
+  ],
+  "selection_rule": "lowest development mean outage; tie by 90th percentile longest outage; then lower temperature and spread",
+  "source_sha256": {
+    "sim.py": "3fcc6b65982247f285ec2d972c12fa8404b0f85c4f701360c812fee6781eb7b1",
+    "planner.py": "d0d86823f24f0386db45046d9482ad18fc10fca4a138f6a63301167fffea208c",
+    "baselines.py": "a6854a93d1c6dcb19cd781bf7706629fe3e9458ca845446aa39fb602689a5c21",
+    "experiment.py": "e96d9b54936e7f4837bd085120f5c11f1cf7f93eafa604393b07b23c23ae1a2b",
+    "campaign.py": "c7b85fd2c229656d4275de0e34d01d851d5ba9237ababaf36113ab515b9c4e20"
+  }
+}

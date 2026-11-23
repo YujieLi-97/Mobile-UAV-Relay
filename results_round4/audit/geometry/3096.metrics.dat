@@ -1,0 +1,27 @@
+{
+  "signature": "51ad20ff176c1da3e078d3326e2d83518e8dd952d853771e0e2f9b4f3219e814",
+  "phase": "audit",
+  "name": "geometry",
+  "seed": 3096,
+  "rate_bps": 3000000.0,
+  "temperature": 0.05,
+  "sigma_v": 8.0,
+  "jammer_xy": [
+    1216.802773211248,
+    755.0337165557114
+  ],
+  "wall_s": 2.0454015731811523,
+  "metrics": {
+    "outage_rate": 0.0,
+    "infeasible_rate": 0.0,
+    "grid_reference_rate": 0.0,
+    "excess_outage": 0.0,
+    "longest_outage_s": 0.0,
+    "rate_p05": 4329523.307466813,
+    "ahead_rmse": 2.975111606115341,
+    "final_loc_err": 668.3172188482076,
+    "energy_kj": 64.63954963599981,
+    "solve_ms_med": 0.025045505026355386
+  },
+  "comment_only_previous_signature": "f59d8a703de5bb33d49330e87f64efd8d426922f688b0224cc67042ef6c7726a"
+}

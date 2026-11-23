@@ -1,0 +1,7 @@
+{
+  "condition": "prior_mean",
+  "seed": 3015,
+  "outage_rate": 0.015,
+  "ahead_rmse": 4.732136339212522,
+  "solve_ms_med": 33.31629000604153
+}

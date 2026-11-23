@@ -1,0 +1,7 @@
+{
+  "condition": "graph_with_uncertainty",
+  "seed": 3017,
+  "outage_rate": 0.0775,
+  "ahead_rmse": 2.4605213135465576,
+  "solve_ms_med": 26.87362558208406
+}

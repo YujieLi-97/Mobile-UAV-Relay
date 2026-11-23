@@ -1,0 +1,76 @@
+{
+  "corridor_tuned": {
+    "violations": 290,
+    "edge_related": 290,
+    "transitions": 79600,
+    "maximum_velocity_change_mps": 18.956646257094167
+  },
+  "geometry": {
+    "violations": 0,
+    "edge_related": 0,
+    "transitions": 79600,
+    "maximum_velocity_change_mps": 2.461872367319108
+  },
+  "gp_nominal": {
+    "violations": 13,
+    "edge_related": 13,
+    "transitions": 79600,
+    "maximum_velocity_change_mps": 7.192204013882772
+  },
+  "gp_tuned": {
+    "violations": 22,
+    "edge_related": 22,
+    "transitions": 79600,
+    "maximum_velocity_change_mps": 11.104981982196069
+  },
+  "graph_gp": {
+    "violations": 0,
+    "edge_related": 0,
+    "transitions": 79600,
+    "maximum_velocity_change_mps": 4.000000000000114
+  },
+  "graph_known": {
+    "violations": 0,
+    "edge_related": 0,
+    "transitions": 79600,
+    "maximum_velocity_change_mps": 4.000000000000114
+  },
+  "known_tuned": {
+    "violations": 42,
+    "edge_related": 42,
+    "transitions": 79600,
+    "maximum_velocity_change_mps": 10.67157208538575
+  },
+  "oracle_lattice_exact": {
+    "violations": 0,
+    "edge_related": 0,
+    "transitions": 79600,
+    "maximum_velocity_change_mps": 4.000000000000114
+  },
+  "parametric_tuned": {
+    "violations": 164,
+    "edge_related": 164,
+    "transitions": 79600,
+    "maximum_velocity_change_mps": 14.46830764232584
+  },
+  "reactive": {
+    "violations": 0,
+    "edge_related": 0,
+    "transitions": 79600,
+    "maximum_velocity_change_mps": 4.000000000000154
+  },
+  "twophase_tuned": {
+    "violations": 72,
+    "edge_related": 72,
+    "transitions": 79600,
+    "maximum_velocity_change_mps": 15.939420159188243
+  },
+  "gp_pair_without_boundary_exceedance": {
+    "scenes": 181,
+    "paired_mean": -0.06921270718232043,
+    "paired_ci": [
+      -0.0888001298552714,
+      -0.04962528450936947
+    ]
+  }
+}

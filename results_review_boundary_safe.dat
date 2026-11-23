@@ -1,0 +1,15 @@
+{
+  "seeds": [
+    3000,
+    3029
+  ],
+  "gp_mean_outage": 0.0365,
+  "midpoint_mean_outage": 0.11408333333333334,
+  "paired_difference": -0.07758333333333332,
+  "paired_ci": [
+    -0.1323461128770989,
+    -0.022820553789567724
+  ],
+  "acceleration_violations": 0,
+  "maximum_realized_velocity_change": 3.99998356467798
+}

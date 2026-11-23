@@ -1,0 +1,7 @@
+{
+  "condition": "short_buffer",
+  "seed": 3017,
+  "outage_rate": 0.085,
+  "ahead_rmse": 2.504049021087794,
+  "solve_ms_med": 10.674181045033038
+}

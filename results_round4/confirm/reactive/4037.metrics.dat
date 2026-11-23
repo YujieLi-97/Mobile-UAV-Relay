@@ -1,0 +1,27 @@
+{
+  "signature": "51ad20ff176c1da3e078d3326e2d83518e8dd952d853771e0e2f9b4f3219e814",
+  "phase": "confirm",
+  "name": "reactive",
+  "seed": 4037,
+  "rate_bps": 3000000.0,
+  "temperature": 0.05,
+  "sigma_v": 8.0,
+  "jammer_xy": [
+    1449.7637491889066,
+    925.7906230492986
+  ],
+  "wall_s": 2.207611083984375,
+  "metrics": {
+    "outage_rate": 0.02,
+    "infeasible_rate": 0.0,
+    "grid_reference_rate": 0.0,
+    "excess_outage": 0.02,
+    "longest_outage_s": 8.0,
+    "rate_p05": 3588255.7630827096,
+    "ahead_rmse": 4.201650785876636,
+    "final_loc_err": 377.5037596252103,
+    "energy_kj": 64.15058784224111,
+    "solve_ms_med": 0.030627998057752848
+  },
+  "comment_only_previous_signature": "f59d8a703de5bb33d49330e87f64efd8d426922f688b0224cc67042ef6c7726a"
+}

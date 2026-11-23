@@ -1,0 +1,8 @@
+{
+  "method": "ours",
+  "seed": 4095,
+  "outage_rate": 0.0275,
+  "max_realized_velocity_change": 3.9999999999999534,
+  "acceleration_violations": 0,
+  "maximum_speed": 14.76392531551865
+}

@@ -1,0 +1,7 @@
+{
+  "condition": "squared_exp",
+  "seed": 3029,
+  "outage_rate": 0.1875,
+  "ahead_rmse": 6.364546945576976,
+  "solve_ms_med": 24.344161967746913
+}

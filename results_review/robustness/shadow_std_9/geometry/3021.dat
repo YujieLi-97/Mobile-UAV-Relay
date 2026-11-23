@@ -1,0 +1,6 @@
+{
+  "condition": "shadow_std_9",
+  "method": "geometry",
+  "seed": 3021,
+  "outage_rate": 0.0325
+}

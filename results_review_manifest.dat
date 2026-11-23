@@ -1,0 +1,25 @@
+{
+  "revision_date": "2026-11-13",
+  "source_file": "uav_relay_experiment.py",
+  "source_sha256": "09703b7521cd21b95dd112b436a5f7783696162d62de77f7bd6a34c36acd6e8a",
+  "current_source_sha256": "cd932d44aae5a28dcd00a063352ac8c7582d52e4d403efacf7d5084f48a2ebd7",
+  "source_difference_audit": "results_review_source_diff.dat",
+  "source_difference_scope": "The current file redraws the system-model figure in _review_figures; the numerical experiment modules and primary run signature are unchanged.",
+  "primary_run_signature": "51ad20ff176c1da3e078d3326e2d83518e8dd952d853771e0e2f9b4f3219e814",
+  "development_check_seeds": [
+    3000,
+    3029
+  ],
+  "holdout_audit_seeds": [
+    4000,
+    4199
+  ],
+  "robustness_records": 300,
+  "risk_audit_scene_records": 200,
+  "data_format": "All numerical outputs use .dat filenames; scene time series are NumPy compressed arrays.",
+  "review_variant_records": 270,
+  "total_review_scene_records": 1430,
+  "boundary_safe_development_records": 60,
+  "boundary_safe_holdout_records": 200,
+  "feedback_holdout_records": 400
+}

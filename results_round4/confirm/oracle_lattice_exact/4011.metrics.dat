@@ -1,0 +1,27 @@
+{
+  "signature": "51ad20ff176c1da3e078d3326e2d83518e8dd952d853771e0e2f9b4f3219e814",
+  "phase": "confirm",
+  "name": "oracle_lattice_exact",
+  "seed": 4011,
+  "rate_bps": 3000000.0,
+  "temperature": 0.05,
+  "sigma_v": 8.0,
+  "jammer_xy": [
+    325.7597588620477,
+    1497.2156212613215
+  ],
+  "wall_s": 1.8000860214233398,
+  "metrics": {
+    "outage_rate": 0.1975,
+    "infeasible_rate": 0.1575,
+    "grid_reference_rate": 0.1575,
+    "excess_outage": 0.04000000000000001,
+    "longest_outage_s": 79.0,
+    "rate_p05": 265689.53191198397,
+    "ahead_rmse": null,
+    "final_loc_err": null,
+    "energy_kj": 63.54623974917742,
+    "solve_ms_med": 2.7461549907457083
+  },
+  "comment_only_previous_signature": "f59d8a703de5bb33d49330e87f64efd8d426922f688b0224cc67042ef6c7726a"
+}

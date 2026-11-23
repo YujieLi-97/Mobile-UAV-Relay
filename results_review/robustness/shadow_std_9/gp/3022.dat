@@ -1,0 +1,6 @@
+{
+  "condition": "shadow_std_9",
+  "method": "gp",
+  "seed": 3022,
+  "outage_rate": 0.0225
+}

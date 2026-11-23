@@ -1,0 +1,26 @@
+{
+  "signature": "8cb32cce1f3512c861b2c76d1173466955132a27a70e27b7846353911ce52231",
+  "phase": "calibrate",
+  "name": "cal_tau0.1_sigma4",
+  "seed": 3046,
+  "rate_bps": 3000000.0,
+  "temperature": 0.1,
+  "sigma_v": 4.0,
+  "jammer_xy": [
+    1545.3782254081948,
+    1128.4132134440106
+  ],
+  "wall_s": 15.057174921035767,
+  "metrics": {
+    "outage_rate": 0.0,
+    "infeasible_rate": 0.0,
+    "grid_reference_rate": 0.0,
+    "excess_outage": 0.0,
+    "longest_outage_s": 0.0,
+    "rate_p05": 3663912.70840394,
+    "ahead_rmse": 4.877759513454491,
+    "final_loc_err": 1447.1499170761663,
+    "energy_kj": 60.045550672230256,
+    "solve_ms_med": 31.32326751074288
+  }
+}

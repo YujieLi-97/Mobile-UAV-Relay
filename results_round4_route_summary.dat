@@ -1,0 +1,32 @@
+{
+  "gp_tuned": {
+    "mean_midpoint_offset_m": 266.97089396444335,
+    "slot_fraction_offset_over_500m": 0.10326250000000002,
+    "path_length_km": 1.6806718362425557
+  },
+  "graph_gp": {
+    "mean_midpoint_offset_m": 29.77211422736585,
+    "slot_fraction_offset_over_500m": 0.002275,
+    "path_length_km": 1.5161273867559952
+  },
+  "geometry": {
+    "mean_midpoint_offset_m": 0.0,
+    "slot_fraction_offset_over_500m": 0.0,
+    "path_length_km": 0.9434155190278425
+  },
+  "known_tuned": {
+    "mean_midpoint_offset_m": 346.66713321591016,
+    "slot_fraction_offset_over_500m": 0.24793750000000003,
+    "path_length_km": 1.7475597583174476
+  },
+  "gp_nominal": {
+    "mean_midpoint_offset_m": 316.24221890150693,
+    "slot_fraction_offset_over_500m": 0.18935,
+    "path_length_km": 1.4500857785452592
+  },
+  "corridor_tuned": {
+    "mean_midpoint_offset_m": 376.54225130345594,
+    "slot_fraction_offset_over_500m": 0.2767,
+    "path_length_km": 6.860919858322263
+  }
+}

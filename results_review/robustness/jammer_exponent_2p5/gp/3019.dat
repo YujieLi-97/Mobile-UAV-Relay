@@ -1,0 +1,6 @@
+{
+  "condition": "jammer_exponent_2p5",
+  "method": "gp",
+  "seed": 3019,
+  "outage_rate": 0.0
+}

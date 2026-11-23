@@ -1,0 +1,7 @@
+{
+  "condition": "always_user_reports",
+  "seed": 3011,
+  "outage_rate": 0.0875,
+  "ahead_rmse": 4.409549914874345,
+  "solve_ms_med": 17.5331694772467
+}

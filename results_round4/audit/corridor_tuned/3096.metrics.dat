@@ -1,0 +1,27 @@
+{
+  "signature": "51ad20ff176c1da3e078d3326e2d83518e8dd952d853771e0e2f9b4f3219e814",
+  "phase": "audit",
+  "name": "corridor_tuned",
+  "seed": 3096,
+  "rate_bps": 3000000.0,
+  "temperature": 0.05,
+  "sigma_v": 8.0,
+  "jammer_xy": [
+    1216.802773211248,
+    755.0337165557114
+  ],
+  "wall_s": 13.20764946937561,
+  "metrics": {
+    "outage_rate": 0.0075,
+    "infeasible_rate": 0.0,
+    "grid_reference_rate": 0.0,
+    "excess_outage": 0.0075,
+    "longest_outage_s": 3.0,
+    "rate_p05": 3477343.849254609,
+    "ahead_rmse": 2.0778849789380582,
+    "final_loc_err": 987.536934417762,
+    "energy_kj": 67.30761038316113,
+    "solve_ms_med": 28.59627699945122
+  },
+  "comment_only_previous_signature": "f59d8a703de5bb33d49330e87f64efd8d426922f688b0224cc67042ef6c7726a"
+}

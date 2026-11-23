@@ -1,0 +1,45 @@
+{
+  "files": {
+    "sim.py": {
+      "sha256_before": "d3e446ed90339b7ee6958c2d600b2ec99b89cd07160bbf26a44d4f316fd08433",
+      "ast_sha256": "5485a0da5c4ffe71927523531adbdd7090ade344d192647c61ab019b540757b0",
+      "sha256_after": "3fcc6b65982247f285ec2d972c12fa8404b0f85c4f701360c812fee6781eb7b1"
+    },
+    "planner.py": {
+      "sha256_before": "c56e856c77b0dc6732edd504d507defc33d2ce23f7251d62032c67d06a47ca3b",
+      "ast_sha256": "e88caef4ddea7a5483ee9119575ac085faeac81bccc389b0a88a9fed08fbb562",
+      "sha256_after": "d0d86823f24f0386db45046d9482ad18fc10fca4a138f6a63301167fffea208c"
+    },
+    "experiment.py": {
+      "sha256_before": "b0bfe2da022b3dc4463d7fb74e978bf6fc6848c06b711ff3b4e1cfc26e5ff94c",
+      "ast_sha256": "dd5e8a488cd9724e768c4c903db9e11ad8f69b53920739ca6856095ea345c6c7",
+      "sha256_after": "e96d9b54936e7f4837bd085120f5c11f1cf7f93eafa604393b07b23c23ae1a2b"
+    },
+    "graph_search_baseline.py": {
+      "sha256_before": "0dc74d0e79d446cf506f68a3e76d558a7f48fb61ea7cae38bbee4652cf60b326",
+      "ast_sha256": "2169e0cfe0edc3cd1d89ea55fc112eb9362efed954646f0f8aa559b20ae62cf1",
+      "sha256_after": "012124c9dc4ca972c486ab162c074ea78f12b01f25fb366f64a681bcc0ca961c"
+    },
+    "round4_campaign.py": {
+      "sha256_before": "0401b2525b3f3117ff18e5c5d1d82d957ebaa8840be1a4fc47f6987762ec51cf",
+      "ast_sha256": "66fdb0f465766550fdcb235839558313f518b08c4c870ffe9fbc97b6da627877",
+      "sha256_after": "48641b24bb0ba568e12604d8cf6af5c979d7616a3bbb21419b2c33a7855caae0"
+    },
+    "round4_analysis.py": {
+      "sha256_before": "9620335581a1e113a5cc563721278acfd7672e98442ffba28f6ed6c6a2faf3ad",
+      "ast_sha256": "3d97d23738c6c1006a3f9a7d1411bca5e98e14c5bfd2eff86fbba51b396d49f2",
+      "sha256_after": "10e81f1944062b1a8d3680f7303f4bcea743f987486c1161e86fb24217c5a7ce"
+    },
+    "round4_assets.py": {
+      "sha256_before": "340c678ed23cf12e72de84b99b080cf48cd207730cd369a15179f81decb947f6",
+      "ast_sha256": "2ce4438fd416b4182f879b081ecf491aa293f770252a194fdf50a299eb576dfd",
+      "sha256_after": "d92bfaf309a208293f094732ed7b8b6ab068f71ffa12efd8e7e87058d72180c3"
+    }
+  },
+  "verification": "Python AST unchanged for every annotated file; comments and spacing only",
+  "previous_run_signature": "f59d8a703de5bb33d49330e87f64efd8d426922f688b0224cc67042ef6c7726a",
+  "annotated_source_signature": "51ad20ff176c1da3e078d3326e2d83518e8dd952d853771e0e2f9b4f3219e814",
+  "updated_result_records": 3200,
+  "numerical_payload_sha256_before_and_after": "80a117faa98a7e4fc45c359e24c45f84198320b132738d4b97e4ed37272af49a",
+  "note": "All seven edited Python ASTs match their pre-annotation ASTs. The 3200 result records were re-indexed to the annotated byte sources without changing numerical metrics; the previous run signature is retained in every record."
+}

@@ -1,0 +1,6 @@
+{
+  "condition": "altitude_120",
+  "method": "geometry",
+  "seed": 3017,
+  "outage_rate": 0.365
+}

@@ -1,0 +1,6 @@
+{
+  "condition": "no_rectangles",
+  "method": "geometry",
+  "seed": 3007,
+  "outage_rate": 0.7675
+}

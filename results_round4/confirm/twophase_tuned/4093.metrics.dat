@@ -1,0 +1,27 @@
+{
+  "signature": "51ad20ff176c1da3e078d3326e2d83518e8dd952d853771e0e2f9b4f3219e814",
+  "phase": "confirm",
+  "name": "twophase_tuned",
+  "seed": 4093,
+  "rate_bps": 3000000.0,
+  "temperature": 0.05,
+  "sigma_v": 8.0,
+  "jammer_xy": [
+    807.8894615038978,
+    1301.55580944034
+  ],
+  "wall_s": 7.984004735946655,
+  "metrics": {
+    "outage_rate": 0.5325,
+    "infeasible_rate": 0.0,
+    "grid_reference_rate": 0.0,
+    "excess_outage": 0.5325,
+    "longest_outage_s": 93.0,
+    "rate_p05": 1734556.6446041248,
+    "ahead_rmse": 4.614326580118528,
+    "final_loc_err": 316.5229600904917,
+    "energy_kj": 59.600131718691905,
+    "solve_ms_med": 18.734924000455067
+  },
+  "comment_only_previous_signature": "f59d8a703de5bb33d49330e87f64efd8d426922f688b0224cc67042ef6c7726a"
+}

@@ -1,0 +1,28 @@
+{
+  "seeds": [
+    4000,
+    4199
+  ],
+  "baseline_mean_outage": 0.025062499999999998,
+  "baseline_mean_ahead_rmse": 3.562441970982025,
+  "conditions": {
+    "no_user_reports": {
+      "mean_outage": 0.03875,
+      "paired_difference": 0.013687499999999998,
+      "paired_ci": [
+        0.007395188715970728,
+        0.01997981128402927
+      ],
+      "mean_ahead_rmse": 6.979781364663709
+    },
+    "always_user_reports": {
+      "mean_outage": 0.023937500000000004,
+      "paired_difference": -0.001125,
+      "paired_ci": [
+        -0.0019101433822495185,
+        -0.00033985661775048134
+      ],
+      "mean_ahead_rmse": 3.502718958199439
+    }
+  }
+}

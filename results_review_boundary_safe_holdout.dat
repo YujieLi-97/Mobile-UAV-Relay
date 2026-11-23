@@ -1,0 +1,16 @@
+{
+  "seeds": [
+    4000,
+    4199
+  ],
+  "midpoint_source": "original holdout, zero acceleration violations",
+  "gp_mean_outage": 0.025075,
+  "midpoint_mean_outage": 0.0907,
+  "paired_difference": -0.065625,
+  "paired_ci": [
+    -0.08358581533737808,
+    -0.04766418466262192
+  ],
+  "acceleration_violations": 0,
+  "maximum_realized_velocity_change": 4.000000000000098
+}

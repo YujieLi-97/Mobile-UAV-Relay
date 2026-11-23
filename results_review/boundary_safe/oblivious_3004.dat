@@ -1,0 +1,8 @@
+{
+  "method": "oblivious",
+  "seed": 3004,
+  "outage_rate": 0.035,
+  "max_realized_velocity_change": 2.5000000000001066,
+  "acceleration_violations": 0,
+  "maximum_speed": 2.500000000000287
+}

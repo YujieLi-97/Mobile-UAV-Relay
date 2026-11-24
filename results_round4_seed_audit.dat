@@ -9,7 +9,7 @@
   "new_holdout_mean_m": 962.8790446867428,
   "original_development_uniform_two_sided_monte_carlo_p": 0.009965,
   "ten_thousand_seed_uniform_ks_p": 0.05656943229445044,
-  "ten_thousand_seed_lag_one_correlation": -0.009937574593817913,
+  "ten_thousand_seed_lag_one_correlation": -0.00993757459381792,
   "new_development_vs_holdout_x_ks_p": 0.7783973524742297,
   "first_draw_replay": "exact for six audited seeds"
 }

@@ -41,3 +41,4 @@ The `verify` command checks the original campaign's embedded source signature. T
 
 To reconstruct the manifest version, run `patch -R -o /tmp/uav_manifest_recovered.py uav_relay_experiment.py results_review_source_diff.dat`. Its SHA-256 is `09703b7521cd21b95dd112b436a5f7783696162d62de77f7bd6a34c36acd6e8a`; the current file is `cd932d44aae5a28dcd00a063352ac8c7582d52e4d403efacf7d5084f48a2ebd7`.
 
+
